@@ -46,6 +46,21 @@ You run a coffee shop and need to create a house blend using 3 different coffee 
 
 ## 🏃‍♂️ Quick Start
 
+Clone the repository:
+```bash
+git clone https://github.com/erielC/coffee-blend-optimizer.git
+```
+
+Create a conda enviorment using the environment.yml file provided:
+```bash
+conda env create -f environment.yml 
+```
+
+Activate environment:
+```bash
+conda activate cf
+```
+
 ## 📁 Project Structure
 
 ## 📈 Example Output
