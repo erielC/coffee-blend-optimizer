@@ -44,71 +44,11 @@ You run a coffee shop and need to create a house blend using 3 different coffee 
 
 ## 📦 Installation
 
-```bash
-# Clone the repository
-git clone https://github.com/erielC/coffee-blend-optimizer.git
-cd coffee-blend-optimizer
-
-# Create conda environment
-
-# Install dependencies
-
-# Install solver (choose one)
-```
-
 ## 🏃‍♂️ Quick Start
-
-```bash
-```
 
 ## 📁 Project Structure
 
-```
-coffee-blend-optimizer/
-├── README.md
-├── requirements.txt
-├── config/
-│   ├── beans.yaml              # Bean properties and constraints
-│   └── scenarios.yaml          # Different optimization scenarios
-├── src/
-│   ├── optimizer.py            # Main optimization engine
-│   ├── data_loader.py          # YAML configuration loader
-│   ├── reporter.py             # Results formatting and export
-│   └── utils.py                # Helper functions
-├── data/
-│   └── sample_results.csv      # Example output
-├── tests/
-│   └── test_optimizer.py       # Unit tests
-└── docs/
-    └── optimization_guide.md   # Detailed documentation
-```
-
 ## 📈 Example Output
-
-```
-╔═══════════════════════════════════╗
-║     OPTIMAL COFFEE BLEND          ║
-╚═══════════════════════════════════╝
-
-🎯 Optimization Status: ✅ Optimal
-💰 Total Cost: $735.00
-⭐ Average Quality: 6.10/10
-
-📊 Bean Composition:
-┌─────────────────┬────────┬─────────────┐
-│ Bean Type       │ Weight │ Percentage  │
-├─────────────────┼────────┼─────────────┤
-│ Bean A (Premium)│ 25.0kg │    25.0%    │
-│ Bean B (Standard)│ 45.0kg │    45.0%    │
-│ Bean C (Economy) │ 30.0kg │    30.0%    │
-└─────────────────┴────────┴─────────────┘
-
-✅ Constraints Status: All satisfied
-   • Total weight: 100.0 kg
-   • Quality requirement: 6.10 ≥ 6.00 ✅
-   • Min bean usage: All beans ≥ 10% ✅
-   • Max premium: 25% ≤ 40% ✅
-```
 
 ## 🐛 Troubleshooting
 
