@@ -1,0 +1,17 @@
+name: cf
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - matplotlib
+  - conda-forge::pyomo
+  - conda-forge::glpk
+  - pandas
+  - plotly
+  - seaborn
+  - pyyaml
+  - pip
+  - pip:
+    - highspy
+prefix: ~/miniconda3/envs/cf
