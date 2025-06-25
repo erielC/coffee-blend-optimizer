@@ -44,8 +44,6 @@ You run a coffee shop and need to create a house blend using 3 different coffee 
 
 ## 📦 Installation
 
-## 🏃‍♂️ Quick Start
-
 Clone the repository:
 ```bash
 git clone https://github.com/erielC/coffee-blend-optimizer.git
@@ -60,10 +58,18 @@ Activate environment:
 ```bash
 conda activate cf
 ```
+## 🏃‍♂️ Quick Start
+
+Once created the conda environment and it is active then simply:
+
+```bash
+python run.py
+```
 
 ## 📁 Project Structure
 
 ## 📈 Example Output
+```bash
 ==================================================
 COFFEE BLEND OPTIMIZATION RESULTS
 ==================================================
@@ -76,7 +82,7 @@ Bean C: 54.0 kg (54.0%) - Cost: $270.00
 
 Total Cost: $782.00
 Final Quality Score: 6.00
-
+```
 ## 🐛 Troubleshooting
 
 **Common Issues:**
