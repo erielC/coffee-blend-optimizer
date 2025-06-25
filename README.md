@@ -38,9 +38,6 @@ You run a coffee shop and need to create a house blend using 3 different coffee 
 
 - **Python 3.8+**
 - **Pyomo** - Optimization modeling
-- **PyYAML** - Configuration management
-- **Pandas** - Data analysis and reporting
-- **NumPy** - Numerical computations
 
 ## 📦 Installation
 
@@ -86,6 +83,12 @@ Final Quality Score: 6.00
 ## 🐛 Troubleshooting
 
 **Common Issues:**
+
+## Future Additions 
+
+- **PyYAML** - Configuration management
+- **Pandas** - Data analysis and reporting
+- **NumPy** - Numerical computations
 
 ## 📄 License
 
