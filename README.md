@@ -64,6 +64,18 @@ conda activate cf
 ## 📁 Project Structure
 
 ## 📈 Example Output
+==================================================
+COFFEE BLEND OPTIMIZATION RESULTS
+==================================================
+Solver Status: optimal
+
+Optimal Solution Found!
+Bean A: 36.0 kg (36.0%) - Cost: $432.00
+Bean B: 10.0 kg (10.0%) - Cost: $80.00
+Bean C: 54.0 kg (54.0%) - Cost: $270.00
+
+Total Cost: $782.00
+Final Quality Score: 6.00
 
 ## 🐛 Troubleshooting
 
